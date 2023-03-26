@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/metastasio/hexlet-js.git"
   },
-  "author": "maya <myaldzina.m@gmail.com>node index.js",
+  "author": "maya <myaldzina.m@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/metastasio/hexlet-js/issues"
